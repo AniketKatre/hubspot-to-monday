@@ -1,0 +1,11 @@
+{
+"eventId": "122",
+"eventType": "deal.propertyInprogress",
+"propertyName": "dealstage",
+"objectId": "56789",
+"objectType": "DEAL",
+"propertyValue": "Closed Lost",
+"dealName": "Google Corp Implementation",
+"dealAmount":"15700000",
+"contactEmail":"annie@gmail.com"
+}
